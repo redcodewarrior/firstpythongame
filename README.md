@@ -1,2 +1,7 @@
 # firstpythongame
-using pygame to get a simple 2d game following a tutorial at codigofacilito
+First Python Game Using pygame
+
+Use main.py to start game
+
+Edit config.py to change FPS, speed, colors and more
+
